@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+  background-color: bisque;
+  color: rgb(230, 190, 196);
+  font-family: "Courier New", Courier, monospace;
+}
+
+.redbutton {
+  background-color: rgb(249, 77, 77);
+  cursor: pointer;
+}
+
+.whitbutton {
+  background-color: whitesmoke;
+  cursor: pointer;
+}
+
+.red {
+  background-color: red;
+}
+.white {
+  background-color: white;
+}
